@@ -6,7 +6,9 @@
 
 # Commands: `!today, !tomorrow, !plan`<br>
 <br>
-#Configuration:
+
+# Configuration: <br>
+
 ## Weeks.json - are "weeks" on your university e.g. first week is since 1 OCT to 6 OCT. JSON file:
 
  `   {
@@ -24,6 +26,7 @@ DateInterval to - to day (in Month)<br>
 Month: a number of week.<br>
 
 ___________________________________________________________________________
+
 ## Lesson_hours.json -are a individual hours in your university.<br>
 
  `   {
@@ -37,6 +40,7 @@ ToHour - ending a lesson <br>
 
 <br>
 ____________________________________________________________________________
+
 ## Lessons.json  - is your individual university plan <br>
 
 `
@@ -51,7 +55,7 @@ ____________________________________________________________________________
       ],
       "Teacher": "John Smith",
       "Room": "114",
-      "Type": "Ćwiczenia" 
+      "Type": "Lecture" 
 }`
 <br>
 
@@ -64,6 +68,7 @@ Room - classroom <br>
 type - exercises, lectures or laboratories <br>
 
 <br>
-![image](https://github.com/kczmrz/dc-student-supporter-bot/assets/96081508/9fd00def-c384-43e9-81ea-66ca867ad8fe)
+![image](https://github.com/kczmrz/dc-student-supporter-bot/assets/96081508/f18195c5-e548-4c17-961c-0653258150ce)
+
 
 
