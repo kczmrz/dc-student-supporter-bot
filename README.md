@@ -1,4 +1,4 @@
-###Dc student support bot
+!Dc student support bot
 Bot for my personal use
 
 
