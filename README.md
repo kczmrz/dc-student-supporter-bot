@@ -7,7 +7,7 @@
 # Commands: `!today, !tomorrow, !plan`<br>
 <br>
 #Configuration:
-Weeks.json - are "weeks" on your university e.g. first week is since 1 OCT to 6 OCT. JSON file:
+## Weeks.json - are "weeks" on your university e.g. first week is since 1 OCT to 6 OCT. JSON file:
 
  `   {
       "NumOfWeek": 1,
@@ -24,7 +24,7 @@ DateInterval to - to day (in Month)<br>
 Month: a number of week.<br>
 
 ___________________________________________________________________________
-Lesson_hours.json -are a individual hours in your university.<br>
+## Lesson_hours.json -are a individual hours in your university.<br>
 
  `   {
         "Hour": 1,
@@ -37,7 +37,7 @@ ToHour - ending a lesson <br>
 
 <br>
 ____________________________________________________________________________
-Lessons.json  - is your individual university plan <br>
+## Lessons.json  - is your individual university plan <br>
 
 `
 {
