@@ -68,6 +68,7 @@ Room - classroom <br>
 type - exercises, lectures or laboratories <br>
 
 <br>
+
 ![image](https://github.com/kczmrz/dc-student-supporter-bot/assets/96081508/f18195c5-e548-4c17-961c-0653258150ce)
 
 
