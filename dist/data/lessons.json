@@ -1,0 +1,230 @@
+[
+    {
+        "Name": "Język Angielski",
+        "Week": [
+            {
+                "DayOFWeek": 1,
+                "numberOfWeek": [1, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                "HourOfLesson": [1, 2]
+            }
+        ],
+        "Teacher": "mgr A. Tkacz-Sawicka",
+        "Room": "115",
+        "Type": "Ćwiczenia"
+    },
+    {
+        "Name": "Matematyka dyskretna II",
+        "Week": [
+            {
+                "DayOFWeek": 1,
+                "numberOfWeek": [1, 5, 9, 13],
+                "HourOfLesson": [3, 4]
+            }
+        ],
+        "Teacher": "dr hab inż Z. Gniazdowski",
+        "Room": "105",
+        "Type": "Wykład"
+    },
+    {
+        "Name": "Metody programowania",
+        "Week": [
+            {
+                "DayOFWeek": 1,
+                "numberOfWeek": [2, 4, 6, 8, 10, 12, 14],
+                "HourOfLesson": [3, 4]
+            },
+            {
+                "DayOFWeek": 2,
+                "numberOfWeek": [7],
+                "HourOfLesson": [9]
+            }
+        ],
+        "Teacher": "dr inż E. Figielska",
+        "Room": "105",
+        "Type": "Wykład"
+    },
+    {
+        "Name": "Podstawy fizyki",
+        "Week": [
+            {
+                "DayOFWeek": 2,
+                "numberOfWeek": [1, 4, 8, 12],
+                "HourOfLesson": [3, 4]
+            }
+        ],
+        "Teacher": "mgr K. Drażba",
+        "Room": "105",
+        "Type": "Wykład"
+    },
+    {
+        "Name": "Architektura systemów komputerowych",
+        "Week": [
+            {
+                "DayOFWeek": 2,
+                "numberOfWeek": [5],
+                "HourOfLesson": [4]
+            },
+            {
+                "DayOFWeek": 2,
+                "numberOfWeek": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+                "HourOfLesson": [5, 6]
+            }
+        ],
+        "Teacher": "dr inż D. Chaładyniak",
+        "Room": "105",
+        "Type": "Wykład"
+    },
+    {
+        "Name": "Architektura systemów komputerowych",
+        "Week": [
+            {
+                "DayOFWeek": 2,
+                "numberOfWeek": [3, 5, 7, 9, 11, 13],
+                "HourOfLesson": [7, 8]
+            }
+        ],
+        "Teacher": "dr inż D. Chaładyniak",
+        "Room": "105",
+        "Type": "Ćwiczenia"
+    },
+    {
+        "Name": "Analiza matematyczna",
+        "Week": [
+            {
+                "DayOFWeek": 3,
+                "numberOfWeek": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                "HourOfLesson": [1]
+            }
+        ],
+        "Teacher": "Wini",
+        "Room": "105",
+        "Type": "Wykład"
+    },
+    {
+        "Name": "Analiza matematyczna",
+        "Week": [
+            {
+                "DayOFWeek": 3,
+                "numberOfWeek": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                "HourOfLesson": [2, 3]
+            }
+        ],
+        "Teacher": "Wini",
+        "Room": "105",
+        "Type": "Ćwiczenia"
+    },
+    {
+        "Name": "Matematyka dyskretna II",
+        "Week": [
+            {
+                "DayOFWeek": 3,
+                "numberOfWeek": [1, 3, 5, 9, 11, 13],
+                "HourOfLesson": [4, 5]
+            }
+        ],
+        "Teacher": "dr hab inż Z. Gniazdowski",
+        "Room": "107",
+        "Type": "Ćwiczenia"
+    },
+    {
+        "Name": "WF",
+        "Week": [
+            {
+                "DayOFWeek": 3,
+                "numberOfWeek": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                "HourOfLesson": [6]
+            }
+        ],
+        "Teacher": "mgr S. Duda",
+        "Room": "112",
+        "Type": "Ćwiczenia"
+    },
+    {
+        "Name": "Systemy operacyjne",
+        "Week": [
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [3, 4, 5, 7, 8, 9, 11, 12],
+                "HourOfLesson": [1]
+            }
+        ],
+        "Teacher": "mgr I. Lewicki",
+        "Room": "105",
+        "Type": "Wykład"
+    },
+    {
+        "Name": "Systemy operacyjne",
+        "Week": [
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                "HourOfLesson": [2, 3]
+            }
+        ],
+        "Teacher": "mgr I. Lewicki",
+        "Room": "216",
+        "Type": "Laborki"
+    },
+    {
+        "Name": "Podstawy fizyki",
+        "Week": [
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [2, 4, 8, 10, 12, 14],
+                "HourOfLesson": [4, 5]
+            }
+        ],
+        "Teacher": "dr inż P. Kopciał",
+        "Room": "9",
+        "Type": "Laborki"
+    },
+    {
+        "Name": "Metody programowania",
+        "Week": [
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [3, 5, 6, 7, 9, 11, 13],
+                "HourOfLesson": [4, 5]
+            },
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [5, 6, 9, 11, 13],
+                "HourOfLesson": [6, 7]
+            }
+        ],
+        "Teacher": "dr inż R. Janowski",
+        "Room": "9",
+        "Type": "Ćwiczenia"
+    },
+    {
+        "Name": "Prawne aspekty informatyki",
+        "Week": [
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [3, 6],
+                "HourOfLesson": [6, 7]
+            },
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [11, 14],
+                "HourOfLesson": [8, 9]
+            }
+        ],
+        "Teacher": "mgr E. Cieślak",
+        "Room": "105",
+        "Type": "Ćwiczenia"
+    },
+    {
+        "Name": "Etyka zawodu",
+        "Week": [
+            {
+                "DayOFWeek": 5,
+                "numberOfWeek": [2, 4, 8, 13],
+                "HourOfLesson": [8, 9]
+            }
+        ],
+        "Teacher": "mgr E. Cieślak",
+        "Room": "105",
+        "Type": "Ćwiczenia"
+    }
+]

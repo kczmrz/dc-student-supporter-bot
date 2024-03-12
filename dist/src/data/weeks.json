@@ -1,0 +1,122 @@
+[
+    {
+        "NumOfWeek": 1,
+        "DateInterval": {
+            "from": 12,
+            "to": 16,
+            "Month": 2
+        }
+    },
+    {
+        "NumOfWeek": 2,
+        "DateInterval": {
+            "from": 19,
+            "to": 23,
+            "Month": 2
+        }
+    },
+    {
+        "NumOfWeek": 3,
+        "DateInterval": {
+            "from": 26,
+            "to": 29,
+            "Month": 2
+        }
+    },
+    {
+        "NumOfWeek": 3,
+        "DateInterval": {
+            "from": 1,
+            "to": 1,
+            "Month": 3
+        }
+    },
+    {
+        "NumOfWeek": 4,
+        "DateInterval": {
+            "from": 4,
+            "to": 8,
+            "Month": 3
+        }
+    },
+    {
+        "NumOfWeek": 5,
+        "DateInterval": {
+            "from": 11,
+            "to": 15,
+            "Month": 3
+        }
+    },
+    {
+        "NumOfWeek": 6,
+        "DateInterval": {
+            "from": 18,
+            "to": 22,
+            "Month": 3
+        }
+    },
+    {
+        "NumOfWeek": 7,
+        "DateInterval": {
+            "from": 2,
+            "to": 5,
+            "Month": 4
+        }
+    },
+    {
+        "NumOfWeek": 8,
+        "DateInterval": {
+            "from": 8,
+            "to": 12,
+            "Month": 4
+        }
+    },
+    {
+        "NumOfWeek": 9,
+        "DateInterval": {
+            "from": 15,
+            "to": 19,
+            "Month": 4
+        }
+    },
+    {
+        "NumOfWeek": 10,
+        "DateInterval": {
+            "from": 22,
+            "to": 26,
+            "Month": 4
+        }
+    },
+    {
+        "NumOfWeek": 11,
+        "DateInterval": {
+            "from": 6,
+            "to": 10,
+            "Month": 5
+        }
+    },
+    {
+        "NumOfWeek": 12,
+        "DateInterval": {
+            "from": 13,
+            "to": 17,
+            "Month": 5
+        }
+    },
+    {
+        "NumOfWeek": 13,
+        "DateInterval": {
+            "from": 20,
+            "to": 24,
+            "Month": 5
+        }
+    },
+    {
+        "NumOfWeek": 14,
+        "DateInterval": {
+            "from": 27,
+            "to": 31,
+            "Month": 5
+        }
+    }
+]

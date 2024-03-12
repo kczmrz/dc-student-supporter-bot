@@ -1,0 +1,42 @@
+[
+    {
+      "Name": "Introduction to Physics",
+      "Week": [
+        {
+          "DayOFWeek": 2,
+          "numberOfWeek": [3, 6, 9],
+          "HourOfLesson": [2, 3]
+        }
+      ],
+      "Teacher": "Prof. M. Johnson",
+      "Room": "101",
+      "Type": "Lecture"
+    },
+    {
+      "Name": "Introduction to Physics",
+      "Week": [
+        {
+          "DayOFWeek": 3,
+          "numberOfWeek": [5, 5, 8],
+          "HourOfLesson": [4, 5]
+        }
+      ],
+      "Teacher": "Dr. E. Williams",
+      "Room": "205",
+      "Type": "Exercises"
+    },
+    {
+      "Name": "Introduction to Physics",
+      "Week": [
+        {
+          "DayOFWeek": 6,
+          "numberOfWeek": [1, 4, 7],
+          "HourOfLesson": [6]
+        }
+      ],
+      "Teacher": "Prof. K. Brown",
+      "Room": "301",
+      "Type": "Labs"
+    }
+  ]
+  

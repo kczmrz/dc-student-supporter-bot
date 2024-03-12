@@ -1,0 +1,63 @@
+[
+    {
+        "Hour": 1,
+        "FromHour": "8:00",
+        "ToHour": "8:45"
+    },
+    {
+        "Hour": 2,
+        "FromHour": "8:50",
+        "ToHour": "9:35"
+    },
+    {
+        "Hour": 3,
+        "FromHour": "9:45",
+        "ToHour": "10:30"
+    },
+    {
+        "Hour": 4,
+        "FromHour": "10:35",
+        "ToHour": "11:20"
+    },
+    {
+        "Hour": 5,
+        "FromHour": "11:45",
+        "ToHour": "12:30"
+    },
+    {
+        "Hour": 6,
+        "FromHour": "12:35",
+        "ToHour": "13:20"
+    },
+    {
+        "Hour": 7,
+        "FromHour": "13:30",
+        "ToHour": "14:15"
+    },
+    {
+        "Hour": 8,
+        "FromHour": "14:20",
+        "ToHour": "15:05"
+    },
+    {
+        "Hour": 9,
+        "FromHour": "15:15",
+        "ToHour": "16:00"
+    },
+    {
+        "Hour": 10,
+        "FromHour": "16:15",
+        "ToHour": "17:00"
+    },
+
+    {
+        "Hour": 11,
+        "FromHour": "17:05",
+        "ToHour": "17:50"
+    },
+    {
+        "Hour": 11,
+        "FromHour": "18:05",
+        "ToHour": "18:50"
+    }
+]
